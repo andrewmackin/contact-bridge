@@ -1,0 +1,15 @@
+run these commands to install packages:
+opam install graphics
+opam install ounit2
+
+To build system:
+make build
+
+To run tests:
+make test
+
+To start the GUI:
+make play
+
+To clean:
+make clean

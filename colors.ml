@@ -1,0 +1,11 @@
+let grey = Graphics.rgb 120 120 120
+let light_blue  = Graphics.rgb 70 135 185
+let red = Graphics.rgb 255 0 0
+let black = Graphics.rgb 0 0 0
+let light_pink = Graphics.rgb 250 110 185
+let sky_blue = Graphics.rgb 110 225 250
+let light_green = Graphics.rgb 110 250 200
+let light_purple = Graphics.rgb 210 110 250
+let light_grey = Graphics.rgb 180 180 180
+let dark_grey = Graphics.rgb 230 230 230
+let bridge_green = light_green

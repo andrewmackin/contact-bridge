@@ -1,0 +1,2 @@
+The assets folder contains text files storing images to make it easier for 
+processing in ocaml, they should not be counted for LOC.
